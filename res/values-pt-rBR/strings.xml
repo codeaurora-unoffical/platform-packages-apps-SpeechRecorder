@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialPairsRadioButton" >\"dial NANP PAIRS\"\nUtterances</string>
+    <string name="app_name" >Gravador de depoimento</string>
+    <string name="callRadioButton" >\"call ...\"\nUtterances</string>
+    <string name="recordButton" >Gravar</string>
+    <string name="speechrecorderlabel" >Gravador de Voz</string>
+    <string name="redoButton" >Redo</string>
+    <string name="dialNanpRadioButton" >\"call ...\"\nUtterances</string>
+</resources>
